@@ -1,0 +1,8 @@
+{
+  "short_name": "Meiyaluma",
+  "name": "Meiyaluma | A fact checker for memes",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
