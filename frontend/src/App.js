@@ -15,7 +15,7 @@ function App() {
   return (
     <Container style={mainContainterStyle} fluid>
       <div className="text-center">
-        <h1 >Meiyaluma ?</h1>
+        <h1 >மெய்யாலும்மா ?</h1>
         <h6 >An app to fact check your memes</h6>
       </div>
       <div style={{padding: "15px"}}>
