@@ -1,0 +1,16 @@
+{
+  "name": "trust-score-service",
+  "version": "0.0.1",
+  "description": "service to check if a news is true or false",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Adithya Selvaprithiviraj",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
