@@ -19,12 +19,12 @@ class UploadForm extends Component {
     }
 
     handleFormSubmit = () => {
-        const formData = new FormData;
+        const formData = new FormData();
         formData.append('file', this.state.selectedFile);
 
         axios.post("http://localhost:3001/upload", formData) 
         .then(res => { 
-            alert("upload success")
+            alert(res.data)
         })
         .catch(err => {
             alert("upload failed")
