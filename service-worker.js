@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Meiyaluma/precache-manifest.06e67e51c7a9b405724bca14113d029e.js"
+  "/Meiyaluma/precache-manifest.023243af103984ffcbc24fb43d6e158b.js"
 );
 
 self.addEventListener('message', (event) => {

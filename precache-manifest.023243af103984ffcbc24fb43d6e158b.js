@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d88ca40057721bcad060cb89f604e972",
+    "revision": "539862ab97f01a014f456b5b7189b618",
     "url": "/Meiyaluma/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Meiyaluma/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "fdd08f9510b10c7099e6",
+    "revision": "e013e5675bff8aa00594",
     "url": "/Meiyaluma/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Meiyaluma/static/js/2.ede8ef52.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fdd08f9510b10c7099e6",
-    "url": "/Meiyaluma/static/js/main.22a97838.chunk.js"
+    "revision": "e013e5675bff8aa00594",
+    "url": "/Meiyaluma/static/js/main.581b789a.chunk.js"
   },
   {
     "revision": "385b931e9ca329efd811",

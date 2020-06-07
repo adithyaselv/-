@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Meiyaluma/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/Meiyaluma/static/js/main.22a97838.chunk.js",
-    "main.js.map": "/Meiyaluma/static/js/main.22a97838.chunk.js.map",
+    "main.js": "/Meiyaluma/static/js/main.581b789a.chunk.js",
+    "main.js.map": "/Meiyaluma/static/js/main.581b789a.chunk.js.map",
     "runtime-main.js": "/Meiyaluma/static/js/runtime-main.dce4856f.js",
     "runtime-main.js.map": "/Meiyaluma/static/js/runtime-main.dce4856f.js.map",
     "static/css/2.af3c1da9.chunk.css": "/Meiyaluma/static/css/2.af3c1da9.chunk.css",
     "static/js/2.ede8ef52.chunk.js": "/Meiyaluma/static/js/2.ede8ef52.chunk.js",
     "static/js/2.ede8ef52.chunk.js.map": "/Meiyaluma/static/js/2.ede8ef52.chunk.js.map",
     "index.html": "/Meiyaluma/index.html",
-    "precache-manifest.06e67e51c7a9b405724bca14113d029e.js": "/Meiyaluma/precache-manifest.06e67e51c7a9b405724bca14113d029e.js",
+    "precache-manifest.023243af103984ffcbc24fb43d6e158b.js": "/Meiyaluma/precache-manifest.023243af103984ffcbc24fb43d6e158b.js",
     "service-worker.js": "/Meiyaluma/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/Meiyaluma/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/Meiyaluma/static/css/main.5ecd60fb.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.ede8ef52.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.22a97838.chunk.js"
+    "static/js/main.581b789a.chunk.js"
   ]
 }
